@@ -45,7 +45,7 @@ public class IdentifyElements {
 		WebElement alertview = driver.findElement(By.id("Alert Views"));
 		alertview.click();
 		
-		driver.quit();
+	
 		
 		
 	}
